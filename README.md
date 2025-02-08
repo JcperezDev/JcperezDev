@@ -46,13 +46,3 @@ I’ve turned my GitHub profile into a **personalized and professional landing p
 ### 📊 GitHub Stats & Highlights
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JcperezDev&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JcperezDev&layout=compact&theme=radical)
-
-### 📜 Advanced GitHub Stats
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=JcperezDev&theme=onedark)
-
-![GitHub Metrics](https://github-readme-streak-stats.herokuapp.com/?user=JcperezDev&theme=dark)
-
-### ⚡ Fun Fact
-I love optimizing code and debugging complex system interactions! 🕵️‍♂️
-
-#### Thanks for stopping by! Let's build something awesome together. 🚀
