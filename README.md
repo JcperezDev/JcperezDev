@@ -1,9 +1,9 @@
 # 💻 JcperezDev | Software Developer
 
-![Profile Banner](https://your-banner-image-url.com)  
+![Profile Banner](/mnt/data/1155007.png)  
 
 ## 👋 Hey, I'm Juan C. Pérez!  
-I'm a passionate **Software Developer** building scalable applications using modern technologies. Every developer needs a portfolio, and what better way to showcase my work than a **customized GitHub profile**? 🚀
+I'm a passionate **Full-Stack Developer** building scalable applications using modern technologies. I develop projects from **planning and designing** all the way to **solving real-world problems** with code. 🚀
 
 ### 🚀 Tech Stack & Skills
 - **Languages:** Python, JavaScript, SQL
