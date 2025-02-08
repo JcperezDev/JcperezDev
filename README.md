@@ -43,4 +43,3 @@ I believe in building software that is not only functional but also scalable and
 
 ### 📊 GitHub Stats & Highlights
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JcperezDev&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JcperezDev&layout=compact&theme=radical)
