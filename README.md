@@ -1,6 +1,6 @@
 # 💻 JcperezDev | Software Developer
 
-![Profile Banner](https://imgur.com/a/3CVmbuP)  
+![Profile Banner](https://camo.githubusercontent.com/5ec80f3982ae8e8d03d84213fe8e1fc5925d56d88a0b032db27317a52977a16a/68747470733a2f2f696d6775722e636f6d2f372f50423761694a)  
 
 ## 👋 Hey, I'm Juan C. Pérez!  
 I'm a passionate **Full-Stack Developer** building scalable applications using modern technologies. I develop projects from **planning and designing** all the way to **solving real-world problems** with code. 🚀
