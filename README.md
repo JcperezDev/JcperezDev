@@ -4,8 +4,8 @@
 I'm a passionate **Full-Stack Developer** building scalable applications using modern technologies. I develop projects from **planning and designing** all the way to **solving real-world problems** with code. 🚀
 
 ### Tech Stack & Skills
-- **Languages:** Python, JavaScript, SQL
-- **Backend:** Flask, FastAPI
+- **Languages:** Python, HTML, CSS, SQL
+- **Backend:** Flask
 - **Databases:** SQL, MySQL
 - **DevOps:** Docker
 - **Testing:** Pytest, Postman
