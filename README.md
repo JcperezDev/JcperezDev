@@ -1,7 +1,7 @@
 # JcperezDev | Software Developer
 
 ## Hey, I'm Juan C. Pérez!  
-I'm a passionate **Full-Stack Developer** building scalable applications using modern technologies. I develop projects from **planning and designing** all the way to **solving real-world problems** with code. 🚀
+I'm a passionate **software developer** focused on building scalable and maintainable applications using modern technologies. I enjoy taking projects from **planning and design** to solving **real-world problems** with code.
 
 ### Tech Stack & Skills
 - **Languages:** Python, HTML, CSS, SQL
