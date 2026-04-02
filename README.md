@@ -1,44 +1,66 @@
-# JcperezDev | Software Developer
+# JcperezDev | Backend Developer
 
 ## Hey, I'm Juan C. Pérez!  
-I'm a passionate **software developer** focused on building scalable and maintainable applications using modern technologies. I enjoy taking projects from **planning and design** to solving **real-world problems** with code.
+Backend developer with +2 years of experience building APIs and backend systems using Python. I focus on creating scalable, clean, and maintainable solutions, working with real-world systems and integrations.
 
-### Tech Stack & Skills
-- **Languages:** Python, HTML, CSS, SQL
-- **Backend:** Flask
-- **Databases:** SQL, MySQL
-- **DevOps:** Docker
-- **Testing:** Pytest, Postman
-- **Authentication:** Active Directory, Keycloak, OAuth2, JWT
-- **Task Queues:** Celery, Redis
+---
 
-### Languages and Tools
+### 🚀 Tech Stack & Skills
+
+- **Languages:** Python, SQL, JavaScript  
+- **Backend:** FastAPI, Flask  
+- **Databases:** PostgreSQL, MongoDB, MySQL  
+- **DevOps:** Docker, CI/CD  
+- **Testing:** Pytest, Postman  
+- **Architecture:** REST APIs, Microservices, Clean Code, SOLID  
+- **Async & Queues:** Celery, Redis, asyncio  
+- **Auth & Security:** JWT, OAuth2, Keycloak, Active Directory  
+
+---
+
+### 🧰 Languages and Tools
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
 
-### A Glimpse Into My Work
-I believe in building software that is not only functional but also scalable and maintainable. My GitHub profile is a reflection of my journey as a developer, showcasing projects where I have tackled real-world problems with creative solutions. From backend systems to full-stack applications, I continuously strive to refine my craft and contribute to the open-source community.I’ve turned my GitHub profile into a **personalized and professional landing page**, making it visually appealing and informative. It provides a **snapshot of my work**, complete with:
-- **Custom badges** showing live data from my repositories
-- **Tech stack icons** to represent my expertise
-- **Dynamic updates** for key stats like GitHub stars and followers
-- **Integration with YouTube** (if applicable) for showcasing my content
+---
 
-### What I'm Looking For
-- Open-source collaborations 
-- Backend & API development projects
-- Learning advanced DevOps & distributed systems
+### 💼 Experience Focus
 
-### How to Reach Me
-- **Email:** jcprz2004@gmail.com
-- **LinkedIn:** [linkedin.com/in/jcperezdev](www.linkedin.com/in/jcperez08)
-- **GitHub:** [github.com/JcperezDev](https://github.com/JcperezDev)
+I currently work developing and maintaining APIs in a production environment, integrating internal systems and optimizing backend processes.  
 
-### GitHub Stats & Highlights
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JcperezDev&show_icons=true&theme=radical)  
+My day-to-day includes:
+- Designing and building REST APIs  
+- Optimizing database queries and performance  
+- Handling data validation and business logic  
+- Automating backend processes  
+- Working with Docker and version control in team environments  
+
+---
+
+### 📈 What I'm Focused On
+
+- Improving backend architecture and scalability  
+- Deepening knowledge in distributed systems and microservices  
+- Writing cleaner, more maintainable code  
+- Expanding into observability and performance optimization  
+
+---
+
+### 📫 Contact
+
+- **Email:** jcprz2004@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/jcperezfernandez  
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JcperezDev&show_icons=true&theme=radical)
