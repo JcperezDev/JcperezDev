@@ -1,18 +1,18 @@
 # JcperezDev | Backend Developer
 
 ## Hey, I'm Juan C. Pérez!  
-Backend developer with +2 years of experience building APIs and backend systems using Python. I focus on creating scalable, clean, and maintainable solutions, working with real-world systems and integrations.
+Backend developer with +2 years of experience building APIs and backend systems using Python. I focus on creating scalable, clean, and maintainable solutions in real-world environments.
 
 ---
 
 ### 🚀 Tech Stack & Skills
 
-- **Languages:** Python, SQL, JavaScript  
+- **Languages:** Python, JavaScript  
 - **Backend:** FastAPI, Flask  
-- **Databases:** PostgreSQL, MongoDB, MySQL  
+- **Databases:** PostgreSQL, MongoDB, SQL Server  
 - **DevOps:** Docker, CI/CD  
 - **Testing:** Pytest, Postman  
-- **Architecture:** REST APIs, Microservices, Clean Code, SOLID  
+- **Architecture:** REST APIs, Microservices, API Design, OOP  
 - **Async & Queues:** Celery, Redis, asyncio  
 - **Auth & Security:** JWT, OAuth2, Keycloak, Active Directory  
 
@@ -34,14 +34,14 @@ Backend developer with +2 years of experience building APIs and backend systems 
 
 ### 💼 Experience Focus
 
-I currently work developing and maintaining APIs in a production environment, integrating internal systems and optimizing backend processes.  
+I currently work developing and maintaining APIs in a production environment, integrating internal systems and optimizing backend processes.
 
 My day-to-day includes:
 - Designing and building REST APIs  
 - Optimizing database queries and performance  
 - Handling data validation and business logic  
 - Automating backend processes  
-- Working with Docker and version control in team environments  
+- Working with Docker and Git in team environments  
 
 ---
 
@@ -58,9 +58,3 @@ My day-to-day includes:
 
 - **Email:** jcprz2004@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/jcperezfernandez  
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JcperezDev&show_icons=true&theme=radical)
